@@ -1,6 +1,6 @@
 # 💫 Hola mi nombre es Napoleón Piovano Mohr:
-Soy un desarrollador web enfocado en backend y apasionado por el desarrollo de sistemas. Me encanta diseñar bases de datos y pensar en lógicas eficientes. Soy estudiante de desarrollo de software y autodidacta.
-Cada día es una oportunidad para aprender algo nuevo y mejorar mis habilidades.<br><br><br><br><br><br><br>
+##Soy un desarrollador web enfocado en backend y apasionado por el desarrollo de sistemas. Me encanta diseñar bases de datos y pensar en lógicas eficientes. Soy estudiante de desarrollo de ##software y autodidacta.
+##Cada día es una oportunidad para aprender algo nuevo y mejorar mis habilidades.<br><br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
