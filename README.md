@@ -2,6 +2,7 @@
 ### Soy un desarrollador web enfocado en backend y apasionado por el desarrollo de sistemas. Me encanta diseñar bases de datos y pensar en lógicas eficientes. Soy estudiante de desarrollo de software y autodidacta.
 ### Cada día es una oportunidad para aprender algo nuevo y mejorar mis habilidades.<br><br><br><br><br><br><br>
 
+Mi CV esta disponible en: [NapoPM.github.io](https://NapoPM.github.io)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NapoPiovanoMohr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/napopm) 
